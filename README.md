@@ -57,9 +57,9 @@ Provides KPI monitoring, drill-down analysis, and visual storytelling for better
 
 **• Walkthrough of Key Visuals**
 #### 📊KPI Cards (Top Row)
-🔹 **Latest Month Wait List** – Total patients currently waiting
-🔹 **Previous Year Comparison** – Wait list count 12 months prior
-🔹 **Toggle-based Average/Median** – Users can switch between average or median values for customized views
+-🔹 **Latest Month Wait List** – Total patients currently waiting
+-🔹 **Previous Year Comparison** – Wait list count 12 months prior
+-🔹 **Toggle-based Average/Median** – Users can switch between average or median values for customized views
 
 #### Calculation Method Toggle (Button Slicer)
 Interactive switch between Average and Median calculations across all visuals
