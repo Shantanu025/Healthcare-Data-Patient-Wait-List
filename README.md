@@ -89,7 +89,7 @@ A tabular view that shows detailed breakdown by Archive Date, Specialty, Age Pro
 #### 🧭Tooltip Page (Interactive Hover Tooltips)
 Custom tooltip with a bar chart and KPI card that appears when hovering over line charts to show context-specific breakdown
 
---
+---
 
 ## • 💡Business Impact & Insights
 ✅ Performance Monitoring: Easily track trends in patient wait times over months and years to monitor system performance.
@@ -99,7 +99,7 @@ Custom tooltip with a bar chart and KPI card that appears when hovering over lin
 ✅ Data-Driven Policy Decisions: The dashboard empowers health policymakers with accurate, real-time insights for planning and operational improvements.
 
 ## 6. Screenshots / Demos
-```markdown
+Show what the dashboard looks like.
 ![Dashboard Summary]([images/dashboard-summary.png](https://github.com/Shantanu025/Healthcare-Data-Patient-Wait-List/blob/main/Waitlist%20Overview.jpg))
 ![Detailed Matrix View](
 https://github.com/Shantanu025/Healthcare-Data-Patient-Wait-List/blob/main/Detailed%20View.jpg)
