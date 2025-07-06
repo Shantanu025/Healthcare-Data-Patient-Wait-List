@@ -1,6 +1,6 @@
 # Healthcare-Data-Patient-Wait-List
 
-1.## 📌 Project Title / Headline
+##1.📌 Project Title / Headline
  
 Healthcare Analytics: An end-to-end Power BI project built using real-world healthcare data to analyze and monitor patient waiting lists across specialties, age profiles, and treatment types from 2018–2021. Covers the full BI development cycle from requirement gathering to deployment, with insights designed to support hospital administrators and health policymakers.
 
