@@ -46,7 +46,7 @@ How have waiting lists changed over time?
 Are certain age groups or case types more affected?
 How can we optimize resources and reduce bottlenecks?
 
---
+---
 
 **• Goal of the Dashboard**
 To deliver an interactive Power BI dashboard that:
@@ -101,5 +101,4 @@ Custom tooltip with a bar chart and KPI card that appears when hovering over lin
 ## 6. Screenshots / Demos
 Show what the dashboard looks like.
 ![Dashboard Summary]([images/dashboard-summary.png](https://github.com/Shantanu025/Healthcare-Data-Patient-Wait-List/blob/main/Waitlist%20Overview.jpg))
-![Detailed Matrix View](
-https://github.com/Shantanu025/Healthcare-Data-Patient-Wait-List/blob/main/Detailed%20View.jpg)
+![Detailed Matrix View](https://github.com/Shantanu025/Healthcare-Data-Patient-Wait-List/blob/main/Detailed%20View.jpg)
