@@ -1,12 +1,14 @@
 # Healthcare-Data-Patient-Wait-List
-Recommended Structure and Order
+
 1. Project Title / Headline
+   
 Healthcare Analytics: An end-to-end Power BI project built using real-world healthcare data to analyze and monitor patient waiting lists across specialties, age profiles, and treatment types from 2018–2021. Covers the full BI development cycle from requirement gathering to deployment, with insights designed to support hospital administrators and health policymakers.
 
-2. Short Description / Purpose
+3. Short Description / Purpose
+   
 This project showcases a complete end-to-end Power BI dashboard development lifecycle using publicly available healthcare data on patient waiting lists (2018–2021). It covers every step from requirement gathering, data transformation, modeling, to dashboard design and deployment. The interactive report enables stakeholders to monitor waitlist trends, compare inpatient/outpatient metrics, and perform deep dives by specialty and age profile—supporting data-driven decisions in the healthcare sector.
 
-3. Tech Stack
+5. Tech Stack
 List the key technologies used to build the dashboard.
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for developing the interactive dashboard and reports.
@@ -16,7 +18,7 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for Power BI dashboard development, .csv/.xlsx for data inputs, and .png for custom visual backgrounds and dashboard previews.
 • 🎨 Canva / PowerPoint – Used for designing custom report backgrounds and enhancing dashboard aesthetics.
 
-4. Data Source
+6. Data Source
 The dataset contains monthly patient waiting list data collected by NHS England from 2018 to 2021. It captures both Inpatient and Outpatient categories across multiple medical specialties and includes the following key fields:
 
 📅 Archive Date – Monthly reporting period
