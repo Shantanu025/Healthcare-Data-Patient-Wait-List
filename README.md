@@ -100,4 +100,4 @@ Custom tooltip with a bar chart and KPI card that appears when hovering over lin
 
 ## 6. Screenshots / Demos
 Show what the dashboard looks like.
-![Dashboard Summary](images/dashboard-[summary.png](https://github.com/Shantanu025/Healthcare-Data-Patient-Wait-List/blob/main/Waitlist%20Overview.jpg))
+![Dashboard Summary](https://github.com/Shantanu025/Healthcare-Data-Patient-Wait-List/blob/main/Waitlist%20Overview.jpg)
